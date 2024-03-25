@@ -1,0 +1,8 @@
+/DAO/
+/Model/
+/View/
+/hibernate.cfg.xml
+/CourseperStudentTest.class
+/StudentpersemsterTest.class
+/courseperdepartmentandsemesterTest.class
+/studentsperdepartmentandsemesterTest.class
